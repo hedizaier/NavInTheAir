@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "VM9804-SQL/2014",
+            "server": "http://localhost",
+            "serverInstance": "STD-CRONUS-FR-11-00-B20783",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "port": 8049
+        }
+    ]
+}
